@@ -1,0 +1,25 @@
+{
+  "name": "portfolio.local",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-imagemin": "*",
+    "gulp-ruby-sass": "*",
+    "node-normalize-scss": "*"
+  },
+  "dependencies": {
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-ruby-sass": "*",
+    "gulp-imagemin": "*",
+    "gulp-autoprefixer": "*",
+    "node-normalize-scss": "*"
+  },
+  "description": ""
+}
